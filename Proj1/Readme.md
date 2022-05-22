@@ -21,12 +21,19 @@ Following the play comes the show, where each player in turn, beginning with the
 All of these points are totalled to find the value of a hand. For example (using A for ace, T for 10, J for jack, Q for queen, and K for king, and ♣, ♦, ♥, and ♠ as clubs, diamonds, hearts, and spades):
 
 Hand	Start card	Points
+
 7♣, Q♥, 2♣, J♣	9♥	0
+
 A♠, 3♥, K♥, 7♥	K♠	2
+
 A♠, 3♥, K♥, 7♥	2♦	5
+
 6♣, 7♣, 8♣, 9♣	8♠	20
+
 7♥, 9♠, 8♣, 7♣	8♥	24
+
 5♥, 5♠, 5♣, J♦	5♦	29
+
 Following the show of each player's hand, the dealer counts the crib as a second hand, claiming any points therein.
 
 Finally, the player following the dealer collects the cards, becoming dealer for the next hand. Play proceeds this way until one player reaches 121 points.
